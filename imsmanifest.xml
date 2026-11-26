@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="craft-deck-iXgi3KRx6qtBGp6xG6MKLR" version="1.0"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="DECK">
+    <organization identifier="DECK">
+      <title>GHN_Time_Management_NonEcom_v8</title>
+      <item identifier="ITEM-DECK" identifierref="RES-DECK" isvisible="true">
+        <title>Bộ slide bấm-để-chuyển</title>
+        <adlcp:masteryscore>100</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-DECK" type="webcontent" adlcp:scormtype="sco" href="deck/index.html">
+      <file href="ims_xml.xsd"/>
+      <file href="imscp_rootv1p1p2.xsd"/>
+      <file href="adlcp_rootv1p2.xsd"/>
+      <file href="imsmd_rootv1p2p1.xsd"/>
+      <file href="deck/index.html"/>
+      <file href="deck/player.css"/>
+      <file href="deck/player.js"/>
+      <file href="deck/scorm-1.2-api.js"/>
+      <file href="deck/slides/001.png"/>
+      <file href="deck/slides/002.png"/>
+      <file href="deck/slides/003.png"/>
+      <file href="deck/slides/004.png"/>
+      <file href="deck/slides/005.png"/>
+      <file href="deck/slides/006.png"/>
+      <file href="deck/slides/007.png"/>
+      <file href="deck/slides/008.png"/>
+      <file href="deck/slides/009.png"/>
+      <file href="deck/slides/010.png"/>
+      <file href="deck/slides/011.png"/>
+      <file href="deck/slides/012.png"/>
+      <file href="deck/slides/013.png"/>
+      <file href="deck/slides/014.png"/>
+      <file href="deck/slides/015.png"/>
+      <file href="deck/slides/016.png"/>
+      <file href="deck/slides/017.png"/>
+      <file href="deck/slides/018.png"/>
+      <file href="deck/slides/019.png"/>
+      <file href="deck/slides/020.png"/>
+      <file href="deck/slides/021.png"/>
+      <file href="deck/slides/022.png"/>
+      <file href="deck/slides/023.png"/>
+      <file href="deck/slides/024.png"/>
+      <file href="deck/slides/025.png"/>
+      <file href="deck/slides/026.png"/>
+      <file href="deck/slides/027.png"/>
+      <file href="deck/slides/028.png"/>
+      <file href="deck/slides/029.png"/>
+      <file href="deck/slides/030.png"/>
+      <file href="deck/slides/031.png"/>
+      <file href="deck/slides/032.png"/>
+      <file href="deck/slides/033.png"/>
+      <file href="deck/slides/034.png"/>
+      <file href="deck/slides/035.png"/>
+      <file href="deck/slides/036.png"/>
+      <file href="deck/slides/037.png"/>
+      <file href="deck/slides/038.png"/>
+      <file href="deck/slides/039.png"/>
+      <file href="deck/slides/040.png"/>
+      <file href="deck/slides/041.png"/>
+    </resource>
+  </resources>
+</manifest>
